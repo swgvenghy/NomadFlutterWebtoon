@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "8b6203104ce7bc46da602341494542a2c1b29f5ac0e42b417153bbb05de4c58c"
+build_start_time: [1689224963, 839306000]
+build_end_time: [1689224970, 887823000]
+inputs:
+  "/Users/junho/IdeaProjects/webtoon_flutter/macos/Flutter/GeneratedPluginRegistrant.swift": [1689224949, 889519157]
+  "/Users/junho/IdeaProjects/webtoon_flutter/macos/Runner/AppDelegate.swift": [1686756961, 0]
+  "/Users/junho/IdeaProjects/webtoon_flutter/macos/Runner/MainFlutterWindow.swift": [1686756961, 0]
